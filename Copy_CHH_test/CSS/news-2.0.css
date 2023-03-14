@@ -1,0 +1,33 @@
+blockquote {
+    font-size: 12px;
+}
+
+.card-title, .item{
+    padding: 10px 15px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.item:hover {
+    background: rgba(0,0,0,0.05);
+}
+
+.card-l-title {
+    color: black;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.desc {
+    color: #999;
+}
+
+.col-lg-3 .article {
+    padding-left: 0;
+    padding-right: 0;
+}

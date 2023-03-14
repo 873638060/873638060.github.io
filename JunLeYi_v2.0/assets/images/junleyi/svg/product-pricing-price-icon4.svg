@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>简单</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-682.000000, -567.000000)">
+            <g id="多实例共享存储" transform="translate(682.000000, 566.000000)">
+                <rect id="Rectangle-7" x="0" y="0" width="48" height="48"></rect>
+                <g id="语言支持" transform="translate(0.000000, 4.000000)">
+                    <path d="M42,18 L42,7 C42,5.8954305 41.1045695,5 40,5 L2,5 C0.8954305,5 -1.45716772e-16,5.8954305 0,7 L0,37 C1.45716772e-16,38.1045695 0.8954305,39 2,39 L21,39 C21.6666667,38.8705241 22,38.5371908 22,38 C22,37.4628092 21.6666667,37.1294759 21,37 L2,37 L2,7 L40,7 L40,18 C40.0620117,18.6666667 40.3953451,19 41,19 C41.6046549,19 41.9379883,18.6666667 42,18 Z" id="Path" fill="#252B3A"></path>
+                    <g id="Group-2" transform="translate(13.000000, 14.000000)" stroke="#252B3A" stroke-width="1.2">
+                        <path d="M9.1685589,9.44152156 L6.18321912,8.85779626 L2.98783784,8.85779626 C1.982591,8.85779626 1.17567568,9.63810998 1.17567568,10.5904366 C1.17567568,11.5427632 1.982591,12.3230769 2.98783784,12.3230769 L7.81216216,12.3230769 C8.817409,12.3230769 9.62432432,11.5427632 9.62432432,10.5904366 C9.62432432,10.1603578 9.4600516,9.7555392 9.1685589,9.44152156 Z" id="Rectangle-13" transform="translate(5.400000, 10.590437) rotate(-40.000000) translate(-5.400000, -10.590437) "></path>
+                        <path d="M13.4734449,4.02714622 L10.3736951,3.31933472 L7.18783784,3.31933472 C6.182591,3.31933472 5.37567568,4.09964844 5.37567568,5.05197505 C5.37567568,6.00430167 6.182591,6.78461538 7.18783784,6.78461538 L12.0121622,6.78461538 C13.017409,6.78461538 13.8243243,6.00430167 13.8243243,5.05197505 C13.8243243,4.67713742 13.6998374,4.32136046 13.4734449,4.02714622 Z" id="Rectangle-13" transform="translate(9.600000, 5.051975) scale(-1, -1) rotate(-40.000000) translate(-9.600000, -5.051975) "></path>
+                    </g>
+                    <circle id="Oval-2-Copy" fill="#C1DAFF" cx="37" cy="30" r="10"></circle>
+                    <circle id="Oval-2-Copy-2" stroke="#252B3A" stroke-width="2" cx="33" cy="31" r="10"></circle>
+                    <polyline id="Path-6" stroke="#252B3A" stroke-linecap="round" points="28 30.5071251 31.4535484 33.7307671 37.0554841 29"></polyline>
+                    <path d="M4.5,1.5 L36.5,1.5" id="Line-Copy-2" stroke="#252B3A" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

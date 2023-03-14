@@ -1,0 +1,155 @@
+body {
+    background: #454545;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+.nav-container {
+    background-color: #eaeaea;
+}
+
+/*侧边导航*/
+
+.side-bar {
+    position: fixed;
+}
+
+.hander .logo {
+    font-size: 30px;
+    font-weight: 700;
+    color: #eee;
+    border: 4px solid;
+    padding: 15px 25px;
+    margin: 60px 0 10px 0;
+    display: inline-block;
+}
+
+.my-nav,
+.tag-list {
+    margin: 40px 55px;
+}
+
+.my-nav a,
+.tag-list a {
+    display: block;
+    color: #888;
+    font-weight: 600;
+    margin: 15px 0;
+    -webkit-transition: color 200ms;
+    -moz-transition: color 200ms;
+    -ms-transition: color 200ms;
+    -o-transition: color 200ms;
+    transition: color 200ms;
+}
+
+.my-nav a:hover,
+.tag-list a:hover {
+    color: #eeeeee;
+}
+
+/*文章区域*/
+
+.article {
+    background: #eaeaea;
+    margin: 60px 0 10px 0;
+    padding: 20px 30px;
+    box-shadow: 0 0 3px 2px rgba(0,0,0,0.2);
+}
+
+.news-item {
+    margin-top: 20px;
+}
+
+.pic {
+    width: 160px;
+    height: 120px;
+    border: 2px solid #888888;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+    display: block;
+}
+
+.status {
+    font-size: 12px;
+    color: #888888;
+}
+
+.content {
+    color: #666666;
+    font-size: 14px;
+    border-bottom: 1px solid #888;
+    padding-bottom: 15px;
+}
+
+.block-head {
+    border-bottom: 2px solid red;
+    margin: 10px 0;
+}
+
+.block-title {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 20px 3px 20px;
+    display: inline-block;
+    background-color: red;
+}
+
+.block-pic img,
+.block-body img{
+    height: auto;
+    -webkit-transition: color 200ms;
+    -moz-transition: color 200ms;
+    -ms-transition: color 200ms;
+    -o-transition: color 200ms;
+    transition: color 200ms;
+}
+
+.block-pic small,
+.block-pic a {
+    color: #7a7a7a;
+}
+
+.block-pic a {
+    font-size: 14px;
+}
+
+.block-pic a:hover {
+    color: #606060;
+}
+
+.footer {
+    margin-top: 20px;
+    padding: 50px 0;
+    text-align: center;
+    color: #999;
+}
+
+#toggle-checkbox:checked ~ div {
+    display: block !important;
+}
+
+#toggle-label {
+    position: absolute;
+    right: 15px;
+    top: 13px;
+    font-size: 16px;
+    font-weight: normal;
+    color: #666;
+    display: none;
+}
+
+.hidden .center {
+    text-align: center;
+}

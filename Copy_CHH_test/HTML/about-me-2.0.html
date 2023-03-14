@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LinYu</title>
+    <link rel="stylesheet" href="../LIB/bootstrap.css">
+    <link rel="stylesheet" href="../CSS/My-2.0-PC.css">
+    <link rel="stylesheet" href="../CSS/about-me-2.0.css">
+</head>
+<body>
+<div id="app">
+    <div class="navbar navbar-default nav-container">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="My-2.0.html" class="navbar-brand">LinYu.com</a>
+            </div>
+            <!--<label id="menu-toggle" for="menu-checkbox"></label> &lt;!&ndash;菜单&ndash;&gt;-->
+            <!--<input id="menu-checkbox" type="checkbox"> &lt;!&ndash;菜单选框&ndash;&gt;-->
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="login-2.0.html">登录</a></li>
+                <li><a href="singup-2.0.html">注册</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <div class="article">
+            <div class="ab-title row">
+                <div class="col-sm-3">
+                    <router-link class="ab-nav" to="/">简介</router-link>
+                </div>
+                <div class="col-sm-3">
+                    <router-link class="ab-nav" to="/edu">技能</router-link>
+                </div>
+                <div class="col-sm-3">
+                    <router-link class="ab-nav" to="/act">经历</router-link>
+                </div>
+                <div class="col-sm-3">
+                    <router-link class="ab-nav" to="/honor">荣誉</router-link>
+                </div>
+            </div>
+            <div class="ab-list">
+                <router-view></router-view>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        CopyRight©2003-2018 WWW.3DMGAME.COM All Right Reserved 京ICP证14006952号 京网文（2016）1650-207号
+    </div>
+</div>
+</body>
+<script src="../LIB/Vue.js"></script>
+<script src="../LIB/vue-router.js"></script>
+<script src="../JS/about-me-2.0.js"></script>
+</html>

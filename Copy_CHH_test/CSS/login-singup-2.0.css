@@ -1,0 +1,11 @@
+.container-small {
+    max-width: 500px;
+}
+
+h1 small {
+    font-size: 18px;
+}
+
+.article-sl {
+    border-radius: 20px;
+}
